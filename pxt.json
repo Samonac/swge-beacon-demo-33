@@ -1,0 +1,21 @@
+{
+    "name": "swge-beacon-demo-3.3",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "bluetooth": "*",
+        "pxt-swge-beacon": "github:ruthsarian/pxt-swge-beacon#8aee5f3f2daca5fd26c135226c17328fa42e975d"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
